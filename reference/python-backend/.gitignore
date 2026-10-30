@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+uploads/agriculture/
+uploads/water/
+uploads/forest/
+uploads/results/
+uploads/reports/
+.env

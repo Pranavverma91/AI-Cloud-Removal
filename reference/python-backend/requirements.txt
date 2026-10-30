@@ -1,0 +1,12 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-CORS==4.0.1
+Flask-JWT-Extended==4.6.0
+PyMySQL==1.1.1
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+Pillow==10.4.0
+reportlab==4.2.2
+bcrypt==4.2.0
+scikit-learn==1.5.1
+python-dotenv==1.0.1
